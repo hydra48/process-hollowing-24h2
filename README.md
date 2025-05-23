@@ -75,7 +75,7 @@ process_hollowing_24h2.exe <Payload.exe> <HostProcess.exe> [options]
 **Exemple** :
 
 ```console
-process_hollowing_24h2.exe C:\youdir\mypayload.exe C:\Windows\System32\notepad.exe --verbose
+process_hollowing_24h2.exe C:\youdir\mypayload.exe C:\Windows\System32\notepad.exe
 ```
 
 ---
