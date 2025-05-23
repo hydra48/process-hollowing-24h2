@@ -75,7 +75,7 @@ process_hollowing_24h2.exe <Payload.exe> <HostProcess.exe> [options]
 **Exemple** :
 
 ```console
-process_hollowing_24h2.exe C:\Tools\mytrojan.exe C:\Windows\System32\notepad.exe --verbose
+process_hollowing_24h2.exe C:\youdir\mypayload.exe C:\Windows\System32\notepad.exe --verbose
 ```
 
 ---
@@ -115,4 +115,4 @@ N’utilisez ce code que pour des études, audits ou environnements contrôlés.
 
 ---
 
-*ℹ️ Hydra48 – 2024*
+*ℹ️ Hydra48 – 2025*
