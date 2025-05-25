@@ -12,6 +12,12 @@ Il crée un processus « vide » (suspendu), en désolidarise l’image en mémo
 
 ---
 
+<video width="800" controls>
+  <source src="./2025-05-25-15-23-14.mkv" type="video/x-matroska">
+  Votre navigateur ne supporte pas la vidéo HTML5.
+</video>
+
+
 ## Fonctionnement
 
 1. **Chargement des API NT**
