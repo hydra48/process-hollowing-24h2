@@ -13,10 +13,11 @@ Il crée un processus « vide » (suspendu), en désolidarise l’image en mémo
 ---
 ## Démo Vidéo
 
-<video width="800" controls>
-  <source src="./demo.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la vidéo HTML5.
-</video>
+
+
+https://github.com/user-attachments/assets/e0a121cb-447a-4a5d-a024-d00de23dc030
+
+
 
 
 
